@@ -12,6 +12,7 @@
 		7BBF487E1FC82D5F005414C1 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7BBF487C1FC82D5F005414C1 /* Main.storyboard */; };
 		7BBF48801FC82D5F005414C1 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7BBF487F1FC82D5F005414C1 /* Assets.xcassets */; };
 		7BBF48831FC82D5F005414C1 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7BBF48811FC82D5F005414C1 /* LaunchScreen.storyboard */; };
+		7BBF488B1FC837B2005414C1 /* ChatController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BBF488A1FC837B2005414C1 /* ChatController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		7BBF487F1FC82D5F005414C1 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		7BBF48821FC82D5F005414C1 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		7BBF48841FC82D5F005414C1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		7BBF488A1FC837B2005414C1 /* ChatController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ChatController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 			children = (
 				7BBF48781FC82D5F005414C1 /* AppDelegate.swift */,
 				7BBF487A1FC82D5F005414C1 /* ViewController.swift */,
+				7BBF488A1FC837B2005414C1 /* ChatController.swift */,
 				7BBF487C1FC82D5F005414C1 /* Main.storyboard */,
 				7BBF487F1FC82D5F005414C1 /* Assets.xcassets */,
 				7BBF48811FC82D5F005414C1 /* LaunchScreen.storyboard */,
@@ -139,6 +142,7 @@
 			files = (
 				7BBF487B1FC82D5F005414C1 /* ViewController.swift in Sources */,
 				7BBF48791FC82D5F005414C1 /* AppDelegate.swift in Sources */,
+				7BBF488B1FC837B2005414C1 /* ChatController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
